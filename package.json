@@ -1,8 +1,15 @@
 {
-  "name": "covid3d",
+  "name": "covid-d3-dayjs-globegl",
   "version": "0.0.1",
   "description": "An interactive 3D visualization of COVID-19.",
   "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "cacheDirectories": [
+    "node_modules",
+    ".next/cache"
+  ],
   "scripts": {
     "dev": "snowpack dev",
     "build": "snowpack build",

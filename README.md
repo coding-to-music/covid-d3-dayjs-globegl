@@ -1,3 +1,36 @@
+# covid-d3-dayjs-globegl
+
+# 🚀 Javascript full-stack 🚀
+
+https://github.com/coding-to-music/covid-d3-dayjs-globegl
+
+https://covid-d3-dayjs-globegl.vercel.app
+
+by Robert Soriano https://github.com/wobsoriano
+
+https://covid-3d.vercel.app
+
+https://github.com/wobsoriano/covid3d
+
+## Environment Values
+
+```java
+none
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/covid-d3-dayjs-globegl.git
+git push -u origin main
+
+```
+
 <a href="https://www.buymeacoffee.com/7eDr4fv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
 
 # COVID-3D
